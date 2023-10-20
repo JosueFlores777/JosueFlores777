@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="[Uploading Banner Youtube Canal Gaming Videojuegos Moderno Llamativo Violeta.gif…]()
-mpsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
+![Banner Youtube Canal Gaming Videojuegos Moderno Llamativo Violeta](https://github.com/JosueFlores777/JosueFlores777/assets/64867736/c6855442-aa7e-40b6-94ed-7533e6614f4b)<p align="center">  />
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>

@@ -3,7 +3,7 @@
   <img src="![Uploading portada.gif…]()" alt="Texto alternativo del GIF" width="400" height="200" />
 </p>
 
-![Uploading portada.gif…]()
+![Uploading portada.gif]()
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>

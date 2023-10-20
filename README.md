@@ -1,5 +1,5 @@
-
 ![Uploading Banner Youtube Canal Gaming Videojuegos Moderno Llamativo Violeta (1).gif…]()
+
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>

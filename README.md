@@ -1,7 +1,7 @@
 
-![Texto alternativo del GIF](![Uploading portada.gif…]())
-
-
+<p align="center">
+  <img src="![Uploading portada.gif…]()" alt="Texto alternativo del GIF" width="400" height="200" />
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>

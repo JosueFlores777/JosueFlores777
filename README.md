@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="[Uploading Banner Youtube Canal Gaming Videojuegos Moderno Llamativo Violeta.gif…]()
+mpsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>

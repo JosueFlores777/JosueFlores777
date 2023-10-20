@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://github.com/JosueFlores777/JosueFlores777/raw/main/assets/64867736/c6855442-aa7e-40b6-94ed-7533e6614f4b" alt="Banner Youtube Canal Gaming Videojuegos Moderno Llamativo Violeta" width="400" height="200" />
-</p>
+
+
+
+https://github.com/JosueFlores777/JosueFlores777/assets/64867736/648e68fc-3135-41d8-8491-1bf65af3d9da
+
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>

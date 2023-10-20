@@ -1,8 +1,5 @@
 
-
-
-https://github.com/JosueFlores777/JosueFlores777/assets/64867736/648e68fc-3135-41d8-8491-1bf65af3d9da
-
+![Uploading Banner Youtube Canal Gaming Videojuegos Moderno Llamativo Violeta (1).gif…]()
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>

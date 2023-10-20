@@ -1,4 +1,4 @@
-![Uploading Banner Youtube Canal Gaming Videojuegos Moderno Llamativo Violeta (1).gif…]()
+![Upload![Uploading portada.gif…]()
 
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>

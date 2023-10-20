@@ -1,5 +1,6 @@
 
-![Uploading portada.gif…]()
+![Texto alternativo del GIF](![Uploading portada.gif…]())
+
 
 
 

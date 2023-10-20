@@ -1,4 +1,6 @@
-![Upload![Uploading portada.gif…]()
+
+![Uploading portada.gif…]()
+
 
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>

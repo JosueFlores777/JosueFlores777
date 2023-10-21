@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="URL_del_GIF" alt="Texto alternativo del GIF" style="max-width: 100%; height: auto;" />
-</p>
+[![MasterHead](https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif?raw=true)](https://github.com/JosueFlores777)
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>
-[![MasterHead](https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif?raw=true)](https://github.com/JosueFlores777)
 
 
 <br>

@@ -1,9 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif" alt="Texto alternativo del GIF" width="400" height="200" />
+  <img src="https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif" alt="Texto alternativo del GIF" width="400" height="700" />
 </p>
-
-![Uploading portada.gif]()
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>

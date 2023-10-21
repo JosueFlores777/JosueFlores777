@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif" alt="Texto alternativo del GIF" width="1200" height="500" />
+  <img src="https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif" alt="Texto alternativo del GIF" width="1000" height="500" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
@@ -44,8 +44,6 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
     target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img

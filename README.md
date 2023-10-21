@@ -1,8 +1,4 @@
-
-<p align="center">
-  <img src="https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif" alt="Texto alternativo del GIF" width="1000" height="500" />
-</p>
-
+[![MasterHead](https://github.com/CristanPalma2203/CristanPalma2203/blob/main/img/2000_600px.gif?raw=true)](https://github.com/CristanPalma2203)
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>
 

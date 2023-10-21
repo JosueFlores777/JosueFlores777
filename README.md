@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif?raw=true)](https://github.com/JosueFlores777)
+[![MasterHead](https://github.com/JosueFlores777/JosueFlores777/blob/main/Portad.gif?raw=true)](https://github.com/JosueFlores777)
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>
 <h3 align="center">Student at UTEC.</h3>

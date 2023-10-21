@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif" alt="Texto alternativo del GIF" width="600" height="300" />
+  <img src="https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif" alt="Texto alternativo del GIF" width="1200" height="500" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Josue Flores</h1>

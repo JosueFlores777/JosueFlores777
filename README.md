@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="![Uploading portada.gif…]()" alt="Texto alternativo del GIF" width="400" height="200" />
+  <img src="https://github.com/JosueFlores777/JosueFlores777/blob/main/portada.gif" alt="Texto alternativo del GIF" width="400" height="200" />
 </p>
 
 ![Uploading portada.gif]()
@@ -12,7 +12,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/JosueFlores777/JosueFlores777/blob/main/ani.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages

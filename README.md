@@ -9,7 +9,7 @@
 </p>
 
 - 🌱 I’m currently learning and working with Web Development, Angular, Astro, Node.js, TypeScript and other programming technologies.
-- 💼 My portfolio: [josueflores777.github.io/Portafolio](https://josueflores777.github.io/Portafolio/)
+
 - 📫 How to reach me: **bryanjosueflores24@gmail.com**
 
 <br>
